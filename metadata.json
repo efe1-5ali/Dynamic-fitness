@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Fitness Center",
+  "description": "Sancaktepe'nin öncü spor merkezi Dynamic Fitness Center tanıtım sitesi, online randevu sistemi ve yönetim paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
